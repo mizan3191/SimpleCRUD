@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "041b2d55-a966-4a30-839b-89e0c360692f": {
+      "ProjectGuid": "041b2d55-a966-4a30-839b-89e0c360692f",
+      "DisplayName": "CRUD",
+      "ColorIndex": 0
+    },
+    "366a8d20-fb58-4224-a5d9-9a0ab858e47a": {
+      "ProjectGuid": "366a8d20-fb58-4224-a5d9-9a0ab858e47a",
+      "DisplayName": "CRUD.Membership",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
